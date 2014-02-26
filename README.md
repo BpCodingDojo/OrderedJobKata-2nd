@@ -3,6 +3,22 @@ OrderedJobKata
 
 Kata for the dojo at 2014.02.26.
 
+# Getting started...
+
+```
+git clone https://github.com/BpCodingDojo/OrderedJobKata-2nd.git
+```
+
+### ...and finished
+
+At the end of the session, please commit your work to the directory of your team.
+
+```
+git add .
+git commit -a -m "Fokakrem"
+git push
+```
+
 
 #The Kata
 
