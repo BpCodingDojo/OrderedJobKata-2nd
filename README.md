@@ -14,6 +14,12 @@ The goal of the kata is to parse the job dependency structure and produce a sequ
 
 Start with a method that accepts a single string argument and returns a string which represents the ordered sequence of jobs (since each job is a single character). We’ll refine the algorithm by evolving the requirements with each step, just like the string calculator kata.
 
+##Constraints
+- Do not use loops
+- TDD ping-pong (One writes test, next writes production code)
+- Reinforce the red-green-refactor cycle
+- No mouse
+
 ##Step 1 – Empty String
 Given you’re passed an empty string (no jobs), the result should be an empty sequence.
 
